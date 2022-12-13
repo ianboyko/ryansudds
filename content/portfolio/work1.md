@@ -7,5 +7,4 @@ title = "Audrey"
 weight = 0
 +++
 
-Watch my bowling masterpiece, "Audrey":
-https://vimeo.com/ryansudds
+Watch my bowling masterpiece, "Audrey": https://vimeo.com/ryansudds
