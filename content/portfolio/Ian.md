@@ -11,5 +11,5 @@ He makes everything possible.
 <!--more-->
 
 Let me introduce you to Ian Boyko. He is a founding member of Strike Force Five and a good guy. 
-![This guy!](/img/portfolio/Ian2.jpg "Hazel and Ian")
+![This guy!](/img/portfolio/Ian2.JPG "Hazel and Ian")
 
