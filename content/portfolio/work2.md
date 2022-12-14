@@ -1,13 +1,12 @@
 +++
-title = "Audrey 2"
+title = "My films"
 draft = false
 image = "img/portfolio/Audrey.png"
 showonlyimage = false
 weight = 1
 +++
 
-Watch my bowling masterpiece
+Cobra Films direct to you
 <!--more-->
 
-About "Audrey"...
-https://vimeo.com/ryansudds
+Watch my bowling masterpiece "Audrey" and other films [on Vimeo](https://vimeo.com/ryansudds).
