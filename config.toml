@@ -53,7 +53,7 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  # facebook      = "full page or profile url in facebook"
+  facebook      = "https://www.facebook.com/ryansudds"
   # email         = "email@example.com"
   twitter       = "https://twitter.com/ryansudds"
   # linkedin      = "full profile url in linkedin"
